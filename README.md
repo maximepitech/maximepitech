@@ -8,7 +8,7 @@ I'm currently a student who's been coding for 5 years. While I'm still on my aca
 
 * 🌍  I'm based in Nice, France
 * ✉️  You can contact me at [maxime.novarese@epitech.eu](mailto:maxime.novarese@epitech.eu)
-* 🧠  I'm learning C++ and Unreal Engine 5
+* 🧠  I'm learning C++, Unreal Engine 5 and Unity
 * 🤝  I'm open to collaborating on video game projects using Unreal Engine, especially if you need a dedicated and passionate team member!
 
 ### Skills
