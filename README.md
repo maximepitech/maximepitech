@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 4th Year Student at Epitech Nice
 --------------------------------
 
-I'm currently a student who's been coding for 5 years. While I'm still on my academic journey, I've developed a strong foundation in C and C++. My passion lies in the world of video game development, and I'm enthusiastically directing my focus towards mastering Unreal Engine 5. Join me as I delve deeper into the realms of game development and transform my coding skills into creating amazing gaming experiences!
+I'm currently a student who's been coding for 5 years. While I'm still on my academic journey, I've developed a strong foundation in C and C++. My passion lies in the world of video game development, and I'm enthusiastically directing my focus towards mastering Unity. Join me as I delve deeper into the realms of game development and transform my coding skills into creating amazing gaming experiences!
 
-* 🌍  I'm based in Nice, France
+* 🌍  I'm based in Nice, France. Currently in South Korea for a year !
 * ✉️  You can contact me at [maxime.novarese@epitech.eu](mailto:maxime.novarese@epitech.eu)
-* 🧠  I'm learning C++, Unreal Engine 5 and Unity
+* 🧠  I'm learning C++, Unreal Engine 5, Unity and Blender
 * 🤝  I'm open to collaborating on video game projects using Unreal Engine, especially if you need a dedicated and passionate team member!
 
 ### Skills
