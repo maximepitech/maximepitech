@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxime N.
 =================================================================================================================================
 
-3rd Year Student at Epitech Nice
+4th Year Student at Epitech Nice
 --------------------------------
 
 I'm currently a student who's been coding for 5 years. While I'm still on my academic journey, I've developed a strong foundation in C and C++. My passion lies in the world of video game development, and I'm enthusiastically directing my focus towards mastering Unreal Engine 5. Join me as I delve deeper into the realms of game development and transform my coding skills into creating amazing gaming experiences!
